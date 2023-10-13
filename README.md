@@ -7,6 +7,7 @@ SPA's to Web3 integrated websites.
 
 
 - 🔭 I’m currently working on Infosoft
+- 💻 Open for freelancing opportunities
 - 🌱 I’m currently improving my Docker skills
 - 🏗️ My projects
     - [CleanCamiguin](https://cleancamiguinqr.com/)
