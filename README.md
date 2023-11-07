@@ -6,7 +6,7 @@ wordpress sites' layout to editing theme programmatically. I also do freelancing
 SPA's to Web3 integrated websites.
 
 
-- 🔭 I’m currently working on Infosoft
+- 🔭 I’m currently working on Codevwork
 - 💻 Open for freelancing opportunities
 - 🌱 I’m currently improving my Docker skills
 - 🏗️ My projects
