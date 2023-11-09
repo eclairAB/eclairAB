@@ -1,9 +1,6 @@
 ### Hi there 👋
 
-My name is Alan Benedict Golpeo. An enjoyer of javascript and php and their more
-popular frameworks. I have intermediate knowledge on Docker, Linux, Python. I am also fond in customizing
-wordpress sites' layout to editing theme programmatically. I also do freelancing during freetimes on projects like
-SPA's to Web3 integrated websites.
+I'm Alan Benedict Golpeo, a passionate enthusiast of JavaScript and PHP, along with their widely-used frameworks. My expertise extends to Docker, Linux, and Python, where I hold an intermediate level of knowledge. I derive great satisfaction from tailoring the layouts of WordPress websites, employing both manual customization and programmatic theme editing. In my spare time, I engage in freelancing and take on various projects, ranging from crafting single-page applications (SPAs) to developing Web3-integrated websites.
 
 
 - 🔭 I’m currently working on Codevwork
