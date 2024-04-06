@@ -3,8 +3,8 @@
 I'm Alan Benedict Golpeo, a passionate enthusiast of JavaScript and PHP, along with their widely-used frameworks. My expertise extends to Docker, Linux, and Python, where I hold an intermediate level of knowledge. I derive great satisfaction from tailoring the layouts of WordPress websites, employing both manual customization and programmatic theme editing. In my spare time, I engage in freelancing and take on various projects, ranging from crafting single-page applications (SPAs) to developing Web3-integrated websites.
 
 
-- 🔭 I’m currently working with Codevwork and AtCapacity
-- 💻 Open for freelancing opportunities
+- 🔭 I’m currently working with AtCapacity
+- 💻 Open for Full time & freelancing opportunities
 - 🌱 I’m currently improving my Docker skills
 - 🏗️ My projects
     - [CleanCamiguin](https://cleancamiguinqr.com/)
