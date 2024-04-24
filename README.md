@@ -10,7 +10,7 @@ I'm Alan Benedict Golpeo, a passionate enthusiast of JavaScript and PHP, along w
     - [CleanCamiguin](https://cleancamiguinqr.com/)
     - [Camiguin QR app](https://play.google.com/store/apps/details?id=org.nativescript.ccqrapp)
     - [Jjwc](https://www.jjwc.gov.ph/)
-    - [Thumbzupp](http://128.199.68.178:83/)
+    - [Thumbzupp](https://thumbzupp.com/)
 - 📫 How to reach me:
     - 📱 +639363300820 🇵🇭
     - 📧 abg.rkls@gmail.com
