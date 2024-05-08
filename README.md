@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Alan Benedict Golpeo, a passionate enthusiast of JavaScript and PHP, along with their widely-used frameworks. My expertise extends to Docker, Linux, and Python, where I hold an intermediate level of knowledge. I derive great satisfaction from tailoring the layouts of WordPress websites, employing both manual customization and programmatic theme editing. In my spare time, I engage in freelancing and take on various projects, ranging from crafting single-page applications (SPAs) to developing Web3-integrated websites.
+I am a dynamic professional with a passion for JavaScript and PHP, complemented by a strong command of Docker, Linux, and Python. My expertise extends to crafting captivating WordPress websites, where I excel in both manual customization and programmatic theme editing. With a keen eye for detail and functionality, I specialize in tailoring layouts, optimizing plugin performance, and seamlessly integrating new features. My diverse skill set enables me to deliver tailored solutions, ranging from single-page applications to Web3-integrated websites. In addition, I bring extensive experience in editing WordPress plugins and themes, ensuring each project I undertake is characterized by innovation and excellence.
 
 
 - 🔭 I’m currently working with AtCapacity
