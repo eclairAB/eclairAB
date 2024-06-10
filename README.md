@@ -1,7 +1,6 @@
 ### Hi there 👋
 
-I am a dynamic professional with a passion for JavaScript and PHP, complemented by a strong command of Docker, Linux, and Python. My expertise extends to crafting captivating WordPress websites, where I excel in both manual customization and programmatic theme editing. With a keen eye for detail and functionality, I specialize in tailoring layouts, optimizing plugin performance, and seamlessly integrating new features. My diverse skill set enables me to deliver tailored solutions, ranging from single-page applications to Web3-integrated websites. In addition, I bring extensive experience in editing WordPress plugins and themes, ensuring each project I undertake is characterized by innovation and excellence.
-
+I am a dynamic professional with a passion for JavaScript and PHP, specializing in Laravel, Vue.js, and React. I have a strong command of Docker, Linux, and Python. My expertise includes crafting captivating websites with both manual customization and programmatic theme editing. I excel in tailoring layouts, optimizing plugin performance, and integrating new features. My diverse skill set enables me to deliver tailored solutions, from single-page applications to Web3-integrated websites. I bring extensive experience in editing WordPress plugins and themes, ensuring innovation and excellence in every project.
 
 - 🔭 I’m currently working with AtCapacity
 - 💻 Open for Full time & freelancing opportunities
