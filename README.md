@@ -6,7 +6,7 @@ I am a dynamic professional with a passion for JavaScript and PHP, specializing 
 - 💻 Open for Full time & freelancing opportunities
 - 🌱 I’m currently improving my Docker skills
 - 🏗️ My projects
-    - [CleanCamiguin](https://cleancamiguinqr.com/)
+    - [CleanCamiguin](https://islevisitcamiguin.com/)
     - [Camiguin QR app](https://play.google.com/store/apps/details?id=org.nativescript.ccqrapp)
     - [Jjwc](https://www.jjwc.gov.ph/)
     - [Thumbzupp](https://thumbzupp.com/)
