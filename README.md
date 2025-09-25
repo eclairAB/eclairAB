@@ -2,7 +2,7 @@
 
 I am a dynamic professional with a passion for JavaScript and PHP, specializing in Laravel, Vue.js, and React. I have a strong command of Docker, Linux, and Python. My expertise includes crafting captivating websites with both manual customization and programmatic theme editing. I excel in tailoring layouts, optimizing plugin performance, and integrating new features. My diverse skill set enables me to deliver tailored solutions, from single-page applications to Web3-integrated websites. I bring extensive experience in editing WordPress plugins and themes, ensuring innovation and excellence in every project.
 
-- 🔭 I’m currently working with AtCapacity
+- 🔭 I’m currently working with [AWTG Ltd](https://www.awtg.co.uk/)
 - 💻 Open for Full time & freelancing opportunities
 - 🌱 I’m currently improving my Docker skills
 - 🏗️ My projects
