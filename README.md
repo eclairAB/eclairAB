@@ -5,11 +5,12 @@ I am a dynamic professional with a passion for JavaScript and PHP, specializing 
 - 🔭 I’m currently working with [AWTG Ltd](https://www.awtg.co.uk/)
 - 💻 Open for Full time & freelancing opportunities
 - 🌱 I’m currently improving my Docker skills
-- 🏗️ My projects
+- 🏗️ Projects I worked with:
     - [CleanCamiguin](https://islevisitcamiguin.com/)
     - [Camiguin QR app](https://play.google.com/store/apps/details?id=org.nativescript.ccqrapp)
     - [Jjwc](https://www.jjwc.gov.ph/)
     - [Thumbzupp](https://thumbzupp.com/)
+    - [Borderlands](https://www.visitborderlands.co.uk/)
 - 📫 How to reach me:
     - 📱 +639363300820 🇵🇭
     - 📧 abg.rkls@gmail.com
