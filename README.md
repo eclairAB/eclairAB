@@ -14,7 +14,7 @@ I am a dynamic professional with a passion for JavaScript and PHP, specializing 
 - 📫 How to reach me:
     - 📱 +639363300820 🇵🇭
     - 📧 abg.rkls@gmail.com
-    - 🧑‍💼 [LinkedIn](https://www.linkedin.com/in/alan-benedict-golpeo-709211225/)
+    - 🧑‍💼 [LinkedIn](https://www.linkedin.com/in/ab-golpeo/)
 
 
 <!--
