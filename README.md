@@ -11,6 +11,8 @@ I am a dynamic professional with a passion for JavaScript and PHP, specializing 
     - [Jjwc](https://www.jjwc.gov.ph/)
     - [Thumbzupp](https://thumbzupp.com/)
     - [Borderlands](https://www.visitborderlands.co.uk/)
+    - Wordpress plugins:
+        - [Eclairman's User Login Blocker](https://wordpress.org/plugins/eclairman-user-login-blocker/)
 - 📫 How to reach me:
     - 📱 +639363300820 🇵🇭
     - 📧 abg.rkls@gmail.com
